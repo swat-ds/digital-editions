@@ -94,7 +94,7 @@ body {
 /* links */
 
 a, .post-title a {
-  color: #841212;
+  color: #A62F2B;
   text-decoration: none;
 }
 
@@ -201,7 +201,7 @@ abbr[title] {
 
 mark {
     color: white;
-    background-color: #841212;
+    background-color: #A62F2B;
 }
 
 /* Quotes */
@@ -300,7 +300,7 @@ tbody tr:nth-child(odd) th {
   line-height: 1.5rem;
 }
 .masthead-title a {
-	color: #841212;
+	color: #A62F2B;
 }
 
 .masthead-title small {
@@ -379,7 +379,7 @@ h3.masthead-title {
 /* Sidebar content */
 
 .sidebar {
-  background-color: #841212;
+  background-color: #A62F2B;
 }
 
 .sidebar a {
