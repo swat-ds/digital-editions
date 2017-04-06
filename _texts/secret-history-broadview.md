@@ -8,7 +8,7 @@ LETTER I.
 
 WE arrived safely here, my dear friend, after a passage of forty days, during which I suffered horribly from sea-sickness, heat and confinement; but the society of my fellow-passengers was so agreeable that I often forgot the inconvenience to which I was exposed. It consisted of five or six French families who, having left St. Domingo at the beginning of the revolution, were now returning full of joy at the idea of again possessing the estates from which they had been driven by their revolted slaves. Buoyed by their newly awakened hopes they were all delightful anticipation. There is an elasticity in the French character which repels misfortune. They have an inexhaustible flow of spirits that bears them lightly through the ills of life.
 
--- 2 --
+>>-- 2 --
 
 Towards the end of the voyage, when I was well enough to go on deck, I was delighted with the profound tranquillity of the ocean, the uninterrupted view, the beautiful horizon, and wished, since fate has separated me from those I love, that I could build a dwelling on the bosom of the waters, where, sheltered from the storms that agitate mankind, I should be exposed to those of heaven only. But a truce to melancholy reflections, for here I am in St. Domingo, with a new world opening to my view.
 

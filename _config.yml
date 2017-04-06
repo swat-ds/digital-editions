@@ -3,15 +3,16 @@
 # Setup
 title:               'ds@swat'
 tagline:             ''
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+description:         'ds@swat digital editions for sharing & collaborative annotation of public domain & creatively licensed texts
+'
 url:                 'http://elotroalex.github.io'
 baseurl:             '/digital-editions'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Nabil Kashyap
+  url:               https://twitter.com/_nabilk
+  email:             nkashya1@swarthmore.edu
 
 # Permalinks
 
