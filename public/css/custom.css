@@ -1,0 +1,29 @@
+@import 'https://fonts.googleapis.com/css?family=Alegreya:400,400i,700|Work+Sans:400,600,700';
+
+h1, h2, h3, h4, h5, h6, h3.masthead-title {
+
+    font-family: "Work Sans";
+}
+
+html {
+    font-family: "Alegreya";
+}
+
+h1.post-title {
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+h2.citation {
+    text-align: center;
+}
+
+p.citation {
+    text-align: left;
+}
+
+p.page-number {
+    font-weight: 700;
+    padding: 2em 0;
+}
