@@ -1,6 +1,6 @@
 # Digital Editions
 
-This is an implementation of the Ed theme by @elotroalex that allows students to collaboratively annotate public domain works using [hypothes.is](hypothes.is).
+This is an implementation of the Ed theme by @elotroalex that allows students to collaboratively annotate public domain works using [hypothes.is](https://web.hypothes.is/).
 
 # Ed: A Jekyll Theme for Minimal Editions
 
