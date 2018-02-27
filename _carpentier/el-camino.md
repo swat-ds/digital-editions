@@ -1,3 +1,12 @@
+---
+layout: narrative
+title: "El Camino de Santiago"
+author: Alejo Carpentier
+source: "Originalmente publicado en Guerra del tiempo (1958)"
+
+---
+
+
 ALEJO CARPENTIER
 EL CAMINO DE SANTIAGO 
 Originalmente publicado en Guerra del tiempo (1958)
