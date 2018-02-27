@@ -26,6 +26,8 @@ encoding: utf-8
 collections:
   texts:
     output: true
+  carpentier:
+    output: true
 
 # Markdown specs
 markdown: kramdown
