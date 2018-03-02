@@ -107,5 +107,14 @@ Todo lo que tuviera clavos se desmoronaba. Un bergantín, anclado no se sabía d
 
 Cuando los obreros vinieron con el día para proseguir la demolición, encontraron el trabajo acabado. Alguien se había llevado la estatua de Ceres, vendida la víspera a un anticuario. Después de quejarse al Sindicato, los hombres fueron a sentarse en los bancos de un parque municipal. Uno recordó entonces la historia, muy difuminada, de una Marquesa de Capellanías, ahogada, en tarde de mayo, entre las malangas del Almendares. Pero nadie prestaba atención al relato, porque el sol viajaba de oriente a occidente, y las horas que crecen a la derecha de los relojes deben alargarse por la pereza, ya que son las que más seguramente llevan a la muerte.
 
+<p class="centered page-number">Ensayos de Alejo Carpentier:</p>	
+
+<ul>
+	{% for text in site.carpentier %}
+  		
+  			<li><a href="{{text.url}}">{{text.title}}</a></li>
+  		
+	{% endfor %}
+</ul>
 
 

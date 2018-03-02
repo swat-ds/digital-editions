@@ -17,7 +17,6 @@ toc:
 - VIII
 
 ---
-
 <p class="centered page-number">Originalmente publicado en el diario El Nacional
 (Caracas, 4 de agosto de 1946, p. 9) <br/>
 Guerra del tiempo (segunda edición)<br/>
@@ -72,4 +71,14 @@ Cuentos (1976)<br/></p>
 ## VIII
        Como no olía a hembra y los tiempos eran apacibles, los jíbaros durmieron el hartazgo durante dos días. Arriba, las auras pasaban sobre las ramas, esperando que la jauría se marchara sin concluir el trabajo. Perro y la perra gris se divertían como nunca, jugando con la camisa listada de Cimarrón. Cada uno halaba por su lado, para probar la solidez de los colmillos. Cuando se desprendía una costura, ambos rodaban por el polvo. Y volvían a empezar, con el harapo cada vez más menguado, mirándose a los ojos, las narices casi juntas. Al fin, se dio la orden de partida. Los ladridos se perdieron en lo alto de las crestas arboladas. 
        Durante muchos años, los monteros evitaron, de noche, aquel atajo dañado por huesos y cadenas. 
+
+<p class="centered page-number">Ensayos de Alejo Carpentier:</p>	
+
+<ul>
+	{% for text in site.carpentier %}
+  		
+  			<li><a href="{{text.url}}">{{text.title}}</a></li>
+  		
+	{% endfor %}
+</ul>
 
