@@ -105,7 +105,7 @@ Durante varios días cabalga Juan de Amberes el rocín que pierde las herraduras
 <ul>
 	{% for text in site.carpentier %}
   		
-  			<li><a href="{{base.url}}/{{text.url}}">{{text.title}}</a></li>
+  			<li><a href="{{baseurl}}/{{text.url}}">{{text.title}}</a></li>
   		
 	{% endfor %}
 </ul>
