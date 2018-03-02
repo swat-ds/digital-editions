@@ -12,12 +12,6 @@ toc:
 
 ---
 
-{% for texts in site.carpentier %}
- <entry>
-	<a href="{{ site.url }}{{ site.baseurl }}">{{text.title}}</a>
- </entry>
-{% endfor %}
-
 <p class="centered page-number">Originalmente publicado en Guerra del tiempo (1958) <br/>
 Cuentos (1976)<br/>
 Cuentos completos (1979)<br/></p>
