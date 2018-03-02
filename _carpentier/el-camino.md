@@ -11,13 +11,12 @@ toc:
 - V
 
 ---
- {% for texts in site.carpentier %}
-	<entry>
-		<title>{{ texts.title }}</title>
- 
-		<content type="html">{{ post.content | xml_escape }}</content>
-	</entry>
- {% endfor %}
+
+{% for texts in site.carpentier %}
+ <entry>
+	<a href="{{ site.url }}{{ site.baseurl }}">{{text.title}}</a>
+ </entry>
+{% endfor %}
 
 <p class="centered page-number">Originalmente publicado en Guerra del tiempo (1958) <br/>
 Cuentos (1976)<br/>
