@@ -100,7 +100,8 @@ Durante varios días cabalga Juan de Amberes el rocín que pierde las herraduras
       —¡Soy calvinista! —dice, en tono de reto.<br/>
       —¡Yo he matado! —responde Juan, para tratar de descender, en lo posible, al nivel de quien acaba de confesar el peor crimen. El barbado afloja el arma, lo contempla durante un rato, y llama por un Golomón —negro de mejillas tasajeadas a cuchillo—, que cae de un árbol, casi encima de Juan, y le baja el sombrero sobre la cara, con tal fuerza que la cabeza se lo raja a media copa. Metido en la noche del fieltro, lo hacen caminar.
 
-<p class="centered page-number">Ensayos de Alejo Carpentier:</p>	
+
+<!--p class="centered page-number">Ensayos de Alejo Carpentier:</p>	
 
 <ul>
 	{% for text in site.carpentier %}
