@@ -8,8 +8,8 @@ toc:
 ---
 <br/>
 
->Y caminaba, semejante a la noche<br/>
->>*Ilíada, Canto I*
+>Y caminaba, semejante a la noche
+>>*Ilíada, Canto I*<br/>
 
 
 El mar empezaba a verdecer entre los promontorios todavía en sombras, cuando la caracola del vigía anunció las cincuenta naves negras que nos enviaba el rey Agamemnón. Al oír la señal, los que esperaban desde hacía tantos días sobre las boñigas de las eras, empezaron a bajar el trigo hacia la playa donde ya preparábamos los rodillos que servirían para subir las embarcaciones hasta las murallas de la  fortaleza. Cuando las quillas tocaron la arena, hubo algunas riñas con los timoneles, pues tanto se había dicho a los micenianos que carecíamos de toda inteligencia para las faenas marítimas, que trataron de alejarnos con sus pértigas. Además,  la playa se había llenado de niños que se metían entre las piernas de los soldados, entorpecían las maniobras, y se trepaban a las bordas para robar nueces de bajo los banquillos de los remeros. Las olas claras del alba se rompían entre gritos, insultos y agarradas a puñetazos, sin que los notables pudieran pronunciar sus palabras de bienvenida, en medio de la barahúnda. Como yo había esperado algo más solemne, más festivo, de nuestro encuentro con los que venían a buscarnos para la guerra, me retiré, algo decepcionado, hacia la higuera en cuya rama gruesa gustaba de montarme, apretando un poco las rodillas sobre la madera, porque tenía un no sé qué de flancos de mujer.
