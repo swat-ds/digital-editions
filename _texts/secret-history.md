@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: "Secret history;<br/>or,<br/>The horrors of St. Domingo,<br/>in<br/>a series of letters,<br/>written by a lady at Cape Francois,<br/>to<br/>Colonel Burr,<br/>late vice-president of the United States,<br/>principally during the command of<br/>General Rochambeau"
+title: "Secret history; <br/>or, <br/>The horrors of St. Domingo, <br/>in<br/>a series of letters,<br/>written by a lady at Cape Francois,<br/>to<br/>Colonel Burr,<br/>late vice-president of the United States,<br/>principally during the command of<br/>General Rochambeau"
 author: Leonara Sansay
 source: "Hassal, Mary [Leonora Sansay]. *Secret history; or, The horrors of St. Domingo*. Philadelphia: Bradford & Inskeep, 1808. Internet Archive."
 

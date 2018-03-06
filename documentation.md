@@ -1,5 +1,6 @@
 ---
 layout: page
+hide: true
 title: Documentation
 author: Alex Gil
 ---
