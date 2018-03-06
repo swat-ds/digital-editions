@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: "Peter Pan<br/>in Kensington Gardens"
+title: "Peter Pan <br/>in Kensington Gardens"
 author: J. M. Barrie
 source: "Barrie, J.M. *Peter Pan in Kensington Gardens*. New York: Charles Scribner's Sons, 19. Internet Archive."
 
