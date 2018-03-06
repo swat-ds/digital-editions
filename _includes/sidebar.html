@@ -32,7 +32,6 @@
 
         {% if node.title != null %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title | truncatewords: 8 | strip_html }}</a>
-        }
         {% endif %}
     {% endfor %}
     <!-- The code below is used for manually entered links  -->
