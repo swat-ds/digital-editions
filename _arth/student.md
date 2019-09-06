@@ -1,7 +1,7 @@
 ---
 layout: narrative
-title: test
-author: Student
+title: student
+author: Student 1 
 source: Ciudad Seva
 ---
 
