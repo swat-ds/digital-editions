@@ -1,7 +1,8 @@
 ---
 layout: narrative
-title: "This is just a test"
+title: test
 author: Student
+source: Ciudad Seva
 ---
 
 # Section 1
