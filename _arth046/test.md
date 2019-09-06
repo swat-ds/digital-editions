@@ -1,8 +1,9 @@
 ---
+
 layout: narrative
 title: "This is just a test"
 author: Student
-source: "ARTH046"
+
 ---
 # Section 1
 
