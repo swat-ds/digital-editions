@@ -1,10 +1,9 @@
 ---
-
 layout: narrative
 title: "This is just a test"
 author: Student
-
 ---
+
 # Section 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nec eros lacinia, sollicitudin velit in, mollis massa. Quisque consequat fermentum ante in laoreet. Quisque mollis et felis eget finibus. Aliquam facilisis tincidunt mattis. Sed in neque accumsan, tempor lorem eu, scelerisque magna. Sed ut varius ipsum. Sed pellentesque ante nibh, eu porta eros finibus porta. Integer pulvinar mi a sapien molestie mollis. Nunc quis nibh a lectus blandit consequat eu vel sapien. Praesent bibendum tellus ut dui viverra, et posuere quam ornare. In in massa eget nisi imperdiet malesuada. Phasellus a nisi sed diam feugiat posuere. Donec semper augue dolor, ac lacinia est ornare sed. Maecenas tempor ultrices neque, vitae ultricies justo aliquam ac. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
