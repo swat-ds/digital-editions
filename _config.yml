@@ -14,8 +14,10 @@ author:
   url:               https://twitter.com/_nabilk
   email:             nkashya1@swarthmore.edu
 
-# Permalinks
+# Color scheme. Options: red, orange, magenta, cyan, blue, brown
+color-scheme:
 
+# Permalinks
 permalink: pretty
 permalink: /:title/
 
@@ -41,10 +43,13 @@ kramdown:
   smart_quotes:   lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Custom vars
-version:             0.0.6
-
 # Exclusions from the final site
-exclude: [optional, vendor]
+exclude:
+  - optional
+  - vendor
 
-
+# Theme
+# (Used for local or custom-server deployments)
+# Uncomment the `theme` line if using the Ed. theme gem on your own computer or server.
+# See https://jekyllrb.com/docs/themes/
+# theme: "ed."

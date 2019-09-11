@@ -2,17 +2,16 @@
 layout: poem
 title: A Julia de Burgos
 author: Julia de Burgos
+editor: Alex Gil
 source: Ciudad Seva
 ---
-
-<p class="citation"> by {{ page.author }}</p>
 
 - Ya las gentes murmuran que yo soy tu enemiga
 - porque dicen que en verso doy al mundo mi yo.
 
-- Mienten, Julia de Burgos. Mienten, Julia de Burgos.
+- Mienten, *Julia de Burgos*. Mienten, Julia de Burgos.
 - La que se alza en mis versos no es tu voz: es mi voz
-- porque tú eres ropaje y la esencia soy yo; y el más
+- porque tú eres [ropaje](http://www.spanishdict.com/translate/ropaje) y la esencia soy yo; y el más
 - profundo abismo se tiende entre las dos.
 
 - Tú eres fria muñeca de mentira social,
@@ -47,11 +46,11 @@ source: Ciudad Seva
 - y el infierno, y el que dirán social.
 
 - En mí no, que en mí manda mi solo corazón,
-- mi solo pensamiento; quien manda en mí soy yo. 
+- mi solo pensamiento; quien manda en mí soy yo.
 
 - Tú, flor de aristocracia; y yo, la flor del pueblo.
 - Tú en ti lo tienes todo y a todos se
-- lo debes, mientras que yo, mi nada a nadie se la debo. 
+- lo debes, mientras que yo, mi nada a nadie se la debo.
 
 - Tú, clavada al estático dividendo ancestral,
 - y yo, un uno en la cifra del divisor

@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-- 2.2
+- 2.2.2
 
 
 # Assume bundler is being used, therefore
@@ -14,7 +14,7 @@ script:
 # branch whitelist, only for GitHub Pages
 branches:
   only:
-  - gh-pages     # test the gh-pages branch
+  - master     # test the gh-pages branch
   - /pages-(.*)/ # test every branch which starts with "pages-"
 
 env:

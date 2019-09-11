@@ -3,7 +3,6 @@ _gh_pages
 _site
 .ruby-version
 
-
 # Numerous always-ignore extensions
 *.diff
 *.err
@@ -14,6 +13,7 @@ _site
 *.swp
 *.zip
 *.vi
+*.gem
 *~
 
 # POSSIBLE ENVIRONMENTS

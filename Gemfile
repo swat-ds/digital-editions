@@ -1,6 +1,4 @@
-source 'https://rubygems.org'
-gem 'jekyll', "3.3.0"
-gem 'json'
+source "https://rubygems.org"
+gemspec
+
 # gem "html-proofer"
-
-

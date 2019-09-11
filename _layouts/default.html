@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="theme-base-{{site.color-scheme}}">
 
     <!-- This if statement decides which sidebar to use -->
     {% if page.toc %}
@@ -12,14 +12,15 @@
     {% include sidebar.html %}
     {% endif %}
 
-
-
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the content to avoid any CSS collisions with our real content. -->
+    <!--
+      Wrap is the content to shift when toggling the sidebar. We wrap the content to avoid any CSS
+      collisions with our real content.
+    -->
     <div class="wrap">
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="http://ds.swarthmore.edu" title="Home">{{ site.title }}</a>
+            <a href="http://ds.swarthmore.edu" title="Home">{{ site.title | newline_to_br }}</a>
             <br><small>{{ site.tagline }}</small>
           </h3>
         </div>
@@ -48,7 +49,7 @@
         document.getElementById("main").innerHTML = content.replace(regex, "<mark>$1</mark>");
       }
 
-    // Toggle sidebar  
+      // Toggle sidebar
       (function(document) {
         var toggle = document.querySelector('.sidebar-toggle');
         var sidebar = document.querySelector('#sidebar');
@@ -58,7 +59,7 @@
           var target = e.target;
 
           if(!checkbox.checked ||
-             sidebar.contains(target) ||
+             !sidebar.contains(target) ||
              (target === checkbox || target === toggle)) return;
 
           checkbox.checked = false;
@@ -67,23 +68,6 @@
     </script>
 
     <script async defer src="https://hypothes.is/embed.js"></script>
-    <!-- Facebook SDK for JavaScript -->
-<!-- <script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '589495744558280',
-      xfbml      : true,
-      version    : 'v2.6'
-    });
-  };
 
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
- -->  </body>
+</body>
 </html>
