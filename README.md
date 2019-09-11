@@ -1,6 +1,6 @@
 # Digital Editions
 
-Instance of Ed them customized by [ds@swat](https://github.com/swat-ds).
+:nail_care: Instance of Ed them customized by [ds@swat](https://github.com/swat-ds). :nail_care:
 
 --
 
