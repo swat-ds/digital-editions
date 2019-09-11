@@ -3,12 +3,18 @@ layout: narrative
 title: "Peter Pan <br/>in Kensington Gardens"
 author: J. M. Barrie
 source: "Barrie, J.M. *Peter Pan in Kensington Gardens*. New York: Charles Scribner's Sons, 19. Internet Archive."
-
+toc:
+  - "I The Grand Tour of the Gardens"
+  - "II PETER PAN"
+  - "III THE THRUSH\'S NEST"
+  - "IV LOCK-OUT TIME"
+  - "V THE LITTLE HOUSE"
+  - "VI PETER'S GOAT"
 ---
 
 ---
 <br/>
-## **I THE GRAND TOUR OF THE GARDENS**
+## I THE GRAND TOUR OF THE GARDENS
 <br/>
 
 You must see for yourselves that it will be difficult to follow Peter Pan's adventures unless you are familiar with the Kensington Gardens. They are in London, where the King lives, and I used to take David there nearly every day unless he was looking decidedly flushed. No child has ever been in the whole of the Gardens, because it is so soon time to turn back. The reason it is soon time to turn back is that, if you are as small as David, you sleep from twelve to one. If your mother was not so sure that 
@@ -137,7 +143,7 @@ looking so reproachfully at us that we knew she thought we had done it; and thou
 <p class="centered page-number">— 18 —</p>
 
 
-## **II PETER PAN**
+## II PETER PAN
 <br/>
 
 IF you ask your mother whether she knew about Peter Pan when she was a little girl, she will say, 'Why, of course I did, child'; and if you ask her whether he rode on a goat in those days, she will say, 'What a foolish question to ask; certainly he did.' Then if you ask your grandmother whether she knew about Peter Pan when she was a girl, she also says, 'Why, of course I did, child,' but if you ask her whether he rode on a goat in those days, she says she never heard of his having a goat. Perhaps she has forgotten, just as she sometimes forgets your name and calls you Mildred, which is your mother's name. Still, she could hardly forget such an important thing as the goat. Therefore there was no goat when your 
@@ -293,7 +299,7 @@ Nevertheless, Peter did reach the Gardens at last by the help of Shelley's boat,
 
 After this the birds said that they would help him no more in his mad enterprise. 
 
-## **III THE THRUSH'S NEST**
+## III THE THRUSH'S NEST
 <br/>
 
 SHELLEY was a young gentleman and as grown-up as he need ever expect to be. He was a poet ; and they are never exactly grown-up. They are people who despise money except what you need for to-day, and he had all that and five pounds over. So, when he was walking in the Kensington Gardens, he made a paper boat of his banknote, and sent it sailing on the Serpentine. 
@@ -456,7 +462,7 @@ And think of the music of his pipe. Gentlemen who walk home at night write to th
 <p class="centered page-number">— 54 —</p>
 
 
-## **IV LOCK-OUT TIME**
+## IV LOCK-OUT TIME
 <br/>
 
 IT is frightfully difficult to know much about the fairies, and almost the only thing known for certain is that there are fairies wherever there are children. Long ago children were forbidden the Gardens, and at that time there was not a fairy in the place ; then the children were admitted, and the fairies came trooping in that very evening. They can't resist following the children, but you seldom see them, partly because they live in the daytime behind the railings, where you are not allowed to go, and also partly because they are so cunning. They are not a bit cunning after Lock-out, but until Lock-out, my word ! 
@@ -1014,7 +1020,7 @@ Maimie stamped her foot naughtily, and was putting her fingers to her eyes, when
 <p class="centered page-number">— 108 —</p>
 
 
-## **VI PETER'S GOAT**
+## VI PETER'S GOAT
 <br/>
 
 MAIMIE felt quite shy, but Peter knew not what shy was. 

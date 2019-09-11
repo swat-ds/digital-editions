@@ -1,0 +1,7 @@
+    {% assign texts_list = site.texts | where: 'hide', nil %}
+    {% for node in texts_list %}
+
+        {% if node.title != null %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title | truncatewords: 8 | strip_html }}</a>
+        {% endif %}
+    {% endfor %}

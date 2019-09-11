@@ -3,6 +3,7 @@ layout: narrative
 title: The Egg and the Sperm (excerpt)
 author: Emily Martin
 source: Signs, Vol. 16, No. 3 (Spring, 1991)
+published: false
 ---
 <br/>
 <br/>
