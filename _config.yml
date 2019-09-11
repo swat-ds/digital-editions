@@ -30,6 +30,8 @@ collections:
     output: true
   carpentier:
     output: true
+  arth:
+    output: true
 
 # Markdown specs
 markdown: kramdown
@@ -47,9 +49,20 @@ kramdown:
 exclude:
   - optional
   - vendor
+  - Gemfile
+  - "*.gemspec"
+  - LICENSE
+  - README
+
+
 
 # Theme
 # (Used for local or custom-server deployments)
 # Uncomment the `theme` line if using the Ed. theme gem on your own computer or server.
 # See https://jekyllrb.com/docs/themes/
 # theme: "ed."
+
+# Remote Theme
+# (Used only for GitHub deployments)
+# See https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site
+remote_theme: minicomp/ed
