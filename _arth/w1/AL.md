@@ -3,6 +3,7 @@ layout: narrative
 title: Response 1
 author: Allison Naganuma
 date: 26 September 2019
+week: one
 ---
 	Art has nothing to do with representation, but with action...action that can interfere with real life and not representation of life...art has to do with life and at that moment, we thought that life was not in museums, but in the streets...Life was very difficult at that moment. The censorship and repression was [strong]. I felt this violence on my body, and I wanted to make the audience...not tell [them] about that, not inform [them], but to make them feel this violence.
 	-	Graciela Carnevale, 2012

@@ -3,6 +3,7 @@ layout: narrative
 title: The Tupamaros
 author: Kieran Huang
 date: 26 September 2019
+week: one
 ---
 
 The Tupamaros are unlike any other art we have discussed in class, in that they were not intended to be viewed as art. Furthermore, instead of existing as a single project, they are an organized group which carried out many operations over the course of about 11 years. Unlike other guerrilla groups, the Tupamaros’ goal was not to incite the revolution, but to make the public attuned enough to the political and social environment in Uruguay, that revolution would be inevitable. I chose the Tupamaros for my topic because they seemed to simultaneously be the most resistant to artistic interpretation and the most socially and politically impactful. The main goal of this paper is to explore how the Tupamaros mode of social change can be viewed through an avant-garde art lens.

@@ -3,6 +3,7 @@ layout: narrative
 title: Applying Intervention to Aid Drug-Addicted Women
 author: Mike Trainor
 date: 26 September 2019
+week: one
 ---
 
 In 1994, the Swiss museum Shedhalle reached out to WochenKlausur (WK) to advertise the museum’s newfound ideology that the artistic and political worlds needn’t be separated.  In Intervention to Aid Drug-Addicted Women (IAW), politicians, journalists, police, lawyers, and sex workers were invited onto a boat to discuss how the current treatment of drug-addicted and homeless sex workers in Zurich could be changed.  There were several conversations, and they all happened in private on the boat in the middle of Lake Zurich.

@@ -3,6 +3,7 @@ layout: narrative
 title: WochenKlausur and the Reworking of the Avant-garde for Social Change
 author: Jaimie Lopez
 date: 26 September 2019
+week: one
 ---
 
 The avant-garde is art meant to shock, disrupt, and transform modern thinking.  Throughout time, the ways in which this art presents itself has changed, and this has led to a great debate in the art world on what true avant-garde art is, who it is meant for, and what it aims to do.  Beginning in 1993, the artistic collective known as WochenKlausur, in an effort to change the world they live in, pushed the definitions of art of the avant-garde even further, playing with accessibility, the social responsibility of the artist, and the modes in which art exists.  Their projects, deeply rooted in the idea that art can solve social problems, provide an artistic interventionist model that stresses the ability of art to promote change.  In this paper, I will focus on WochenKlausur’s work in Zurich in 1994, which showed the artist as the interventionist, directly involved within their societal role.  Through Intervention to Aid Drug-Addicted Women (1994), we can see the avant-garde in a complex and socially-conscious light, challenging the traditional notions of elitism and violence in the avant-garde, and its ability to enact change in society.

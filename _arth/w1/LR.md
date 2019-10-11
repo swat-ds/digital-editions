@@ -2,6 +2,7 @@
 layout: narrative
 title: Working For Communities, Not in Them - West Meets East
 author: Louise Rosler
+week: one
 ---
 
 West Meets East is a project facilitated by artist Loraine Leeson, designed as a response

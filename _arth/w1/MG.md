@@ -3,6 +3,7 @@ layout: narrative
 title: Tucumán Arde, Revolution, and the Fate of the Avant-Garde
 author: Max Gruber
 date: 26 September 2019
+week: one
 ---
 
 In 1968, a group of artists banded together in one of the most significant and boundary-pushing instances of political art ever attempted. The modernist tradition prized the sanctity of the art object and its ability to transcend the banality of the human lived experience in service of something greater. Yet, the apogee of modernism was succeeded by new conceptions of art, new avant-gardes, and new issues that drove artists to experiment with form, medium, and, critically, politics as well. Situated in a moment of intense political turmoil and artistic reimagination, Tucumán arde fundamentally altered the way art, content, and social issues were thought about in Latin America and the world. Tucumán arde exemplifies an important artistic address of social issues because of its direct engagement with political action, its incorporation of contemporaneous revolutionary and artistic ideology, as well as the way in which it contended and engaged with concepts of the avant-garde, redefining the term in the work’s own image.

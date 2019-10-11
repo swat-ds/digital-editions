@@ -3,6 +3,7 @@ layout: narrative
 title: A Response to Tucumán arde
 author: Gursimran Singh Pannu
 date: 26 September 2019
+week: one
 ---
 
 This essay analyses the art project Tucumán arde: it’s impact as an art piece and potential questions raised in the undertaking of historicising this project into the definition of Latin American conceptualism. It makes points about its political impact, implicit postcolonial critique of politics and art, methods of representation, and communal consolidation.
@@ -36,4 +37,4 @@ Camnitzer, Luis. Conceptualism in Latin America (Austin: Texas University Press,
 
 Kester, Grant. Conversation Pieces (Berkeley: University of California Press, 2011).
 
-Kester, Grant. “The Sound of Breaking Glass.” E-Flux Journal #3. 
+Kester, Grant. “The Sound of Breaking Glass.” E-Flux Journal #3.

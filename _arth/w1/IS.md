@@ -3,6 +3,7 @@ layout: narrative
 title: Bloc 1 Response
 author: Isabella Fiorante
 date: 26 September 2019
+week: one
 ---
 
 In 1994, Austrian arts collective Wochenklauser brought together several different groups of journalists, politicians, sex workers and social activists in Zurch on three hour long boat cruises on Lake Zurch. The group was tasked with having a conversation about the difficult situation that many drug-addicted prostitutes were facing on the streets of Zurich at the time. Many prostitutes were homeless or lived in conditions close to homelessness and they were often harassed by the police and their clients. Furthermore, they were heavily stigmatized by Swiss society, making conversations about change difficult and imposing another barrier in the way of political action. This boat trip was one of many organized by Wochenklauser over a few weeks as part of an intervention and convention on drug policy. At the conclusion of these boat cruises, the participants were able to reach a consensus on a modest solution to the problem at hand. They agreed upon the creation of a boarding house in which sex workers could have a safe place to sleep and access to needed services.

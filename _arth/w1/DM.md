@@ -3,6 +3,7 @@ layout: narrative
 title: "Acción del Encierro: Approaching Radical Liberation through Creative Violent Destruction "
 author: Diana Martínez
 date: 26 September 2019
+week: one
 ---
 
 Impactful socially engaged art responds to context-specific issues by introducing a new ideological paradigm through a pedagogical approach. In avant-garde fashion, socially engaged art pushes viewers to reimagine their understanding of being and of relating to their community. If the artwork elevates the spectator’s critical consciousness, the spectator will be more likely to replicate the art piece’s practices and principles to address pressing injustices. Thus, when evaluating an art piece’s success in creating a significant social impact, one must view artistic intentions, pedagogy, public discourse, and historical context as co-dependent units that are intrinsically linked.

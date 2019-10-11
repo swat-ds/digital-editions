@@ -3,15 +3,21 @@ layout: narrative
 title: Essays
 author: "ARTH046: Socially Engaged Art in the Americas Class"
 ---
-
+<br/>
+## *Second Written Assignment*
 --
-
-## First Written Assignment
-
---
-
 {% for post in site.arth %}  
-  {% if post.title != "Essays" %}
+  {% if post.week == "two" %}
+  <a href="{{site.baseurl}}{{post.url}}">{{post.author}} // {{post.title}}</a>
+  {% endif %}
+{% endfor %}
+
+<hr>
+
+## *First Written Assignment*
+--
+{% for post in site.arth %}  
+  {% if post.week == "one" %}
   <a href="{{site.baseurl}}{{post.url}}">{{post.author}} // {{post.title}}</a>
   {% endif %}
 {% endfor %}

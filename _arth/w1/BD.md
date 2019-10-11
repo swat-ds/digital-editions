@@ -3,6 +3,7 @@ layout: narrative
 title: Response 1
 author: Bria Dinkins
 date: 26 September 2019
+week: one
 ---
 
 Touch Sanitation (1979-80) was a year long project in which, artist Mierle Laderman Ukeles visited each of new York’s municipal department’s districts in order to shake the hand of every one of the 8,500 workers who accepted her gesture (Kennedy, 2016). Ukeles, inspired to learn about the innards of byzantine system due to her interest in the symbolism and existential aesthetic in garbage and this specific labor, proposed that she be artist in residence for the municipality and conduct this performance (ibid.); this was her strategic model.  This performance was documented throughout and these documents: photographs, videos, maps, plans, press clippings were exhibited in galleries and more traditional art spaces.

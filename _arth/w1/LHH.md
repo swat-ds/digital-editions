@@ -3,6 +3,7 @@ layout: narrative
 title: A look at engaging with cultures and identities not related to the artist sense of self
 author: Liya Harris-Harrell
 date: 26 September 2019
+week: one
 ---
 
 As the initiation of the Art of Change project, Loraine Leeson worked with Bengali teens to facilitate the creation of the artwork West Meets East (1992). The project’s overall goal was to “develop collaborative projects with community groups, schools, women’s organizations, and other constituencies in the Docklands and East London.” (Kester, 2004, p.22) The piece, West Meets East, was a photographic montage that was displayed as a billboard photomural. It was displayed in several parts of East Long and Docklands. The piece displayed a central image of a Bengali girl’s hands at a sewing machine joining together two items of clothing––a sari and a jean jacket. On the frame of the image was a collage. The collage included images related to Bengali culture and popular culture found in England; in addition to, text that had specific words written in both English and Bengali. This piece was displayed for the general public to view. To provide context to the viewer, the piece was accompanied by a plague directly below the photomural. The text provided was in both English and Bengali. Although the piece did not receive wide recognition for the work that it did, it still has influential merit both in the community that it was made for and within the larger discussion of socially engaged art.
