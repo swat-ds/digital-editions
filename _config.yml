@@ -8,6 +8,11 @@ description:         'ds@swat digital editions for sharing & collaborative annot
 url:                 'http://ds.swarthmore.edu'
 baseurl:             '/digital-editions'
 
+# Custom Metadata fields
+dc:
+  relation_ispartof: 'swarthmore.edu'
+
+
 # About/contact
 author:
   name:              Nabil Kashyap

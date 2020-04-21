@@ -6,7 +6,7 @@ source: "Barrie, J.M. *Peter Pan in Kensington Gardens*. New York: Charles Scrib
 toc:
   - "I The Grand Tour of the Gardens"
   - "II PETER PAN"
-  - "III THE THRUSH\'S NEST"
+  - "III THE THRUSH'S NEST"
   - "IV LOCK-OUT TIME"
   - "V THE LITTLE HOUSE"
   - "VI PETER'S GOAT"
