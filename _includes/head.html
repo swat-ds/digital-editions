@@ -21,12 +21,24 @@
   <!-- Dublin Core metadata for Zotero -->
   <meta property="dc:title" content="{{ page.title }}" />
   <meta property="dc:creator" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author.name }}{% endif %}" />
-  <meta property="dc:identifier" content="{{ resource_url }}" />
-  <meta property="dc:relation.ispartof" content="{{ site.dc.relation_ispartof }}" />
   {% if page.editor %}<meta property="dc:contributor" content="{{ page.editor }}" />{% endif %}
   {% if page.publication-date %}<meta property="dc:date" content="{{ page.publication-date }}" />{% endif %}
   {% if page.rights %}<meta property="dc:rights" content="{{ page.rights }}" />{% endif %}
-  <meta property="dc:source" content="{% if page.source %}{{ page.source }}{% else %}{{ site.title }}{% endif %}" />
+  <meta property="dc:source" content='{% if page.source %}{{ page.source | escape_once }}{% else %}{{ site.title }}{% endif %}' />
+
+{% if site.dc %}
+  <!-- Dublin Core metadata for hypothes.is -->
+  <meta name="dc.title" content="{{ page.title }}" />
+  <meta name="dc.creator" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author.name }}{% endif %}" />
+  {% if page.editor %}<meta name="dc.contributor" content="{{ page.editor }}" />{% endif %}
+  {% if page.publication-date %}<meta name="dc.date" content="{{ page.publication-date }}" />{% endif %}
+  {% if page.rights %}<meta name="dc.rights" content="{{ page.rights }}" />{% endif %}
+  <meta name="dc.source" content='{% if page.source %}{{ page.source | escape_once }}{% else %}{{ site.title }}{% endif %}' />
+  <meta name="dc.format" content="{% if page.dc.format %}{{ page.dc.format }}{% else %}{{ site.dc.format }}{% endif %}" />
+  <meta name="dc.language" content="{% if page.dc.language %}{{ page.dc.language }}{% else %}{{ site.dc.language }}{% endif %}" />
+  <meta name="dc.identifier" content="{{ resource_url }}" />
+  <meta name="dc.relation.ispartof" content="{{ site.dc.relation_ispartof }}" />
+{% endif %}
 
   <!-- Open Graph metadata -->
   <meta property="og:title" content="{{ page.title }}" />

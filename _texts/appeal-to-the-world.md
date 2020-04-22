@@ -2,7 +2,8 @@
 layout: narrative
 title: "An Appeal to the World!"
 author: "W. E. BURGHARDT Du Bois"
-source: 'Du Bois, W. E. B. "Introduction" from *An Appeal to the World!*. New York: NAACP, 1947. Web. https://www.aclu.org/appeal-world.'
+source: >-
+    Du Bois, W. E. B. 'Introduction' from An Appeal to the World!. New York: NAACP, 1947. Web. https://www.aclu.org/appeal-world.
 
 ---
 

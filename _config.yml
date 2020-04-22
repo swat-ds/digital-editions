@@ -6,10 +6,13 @@ tagline:             ''
 description:         'ds@swat digital editions for sharing & collaborative annotation of public domain & creatively licensed texts
 '
 url:                 'http://ds.swarthmore.edu'
+# url:                 'https://ds-pages.swarthmore.edu'
 baseurl:             '/digital-editions'
 
-# Custom Metadata fields
+# Default metadata field values
 dc:
+  format: 'text/html'
+  language: 'en'
   relation_ispartof: 'swarthmore.edu'
 
 
