@@ -49,4 +49,5 @@ vendor
 # Recommended in Ben Balter's Jekyll Style Guide
 .sass-cache
 .jekyll-metadata
+.jekyll-cache
 Gemfile.lock
